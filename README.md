@@ -27,6 +27,7 @@ Hi guys, my name is Guilherme.
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;  
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -35,6 +36,7 @@ Hi guys, my name is Guilherme.
   ##
 ⚡ &nbsp;Contact and Social Links
 <div>
+   
    <a target="_blank" href="guim3x.82@gmail.com">
      <img align="center" src="https://img.shields.io/badge/gmail-05122A?style=flat&logo=gmail" alt="gmail"/>  
    </a>
