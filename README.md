@@ -35,13 +35,13 @@ Hi guys, my name is Guilherme.
   ##
 ⚡ &nbsp;Contact and Social Links
 <div>
-   <a href="guim3x.82@gmail.com" target="_blank">
+   <a target="_blank" href="guim3x.82@gmail.com">
      <img align="center" src="https://img.shields.io/badge/gmail-05122A?style=flat&logo=gmail" alt="gmail"/>  
    </a>
-   <a href="https://www.linkedin.com/in/guilherme-rodrigues-756661223/" target="_blank">
+   <a target="_blank" href="https://www.linkedin.com/in/guilherme-rodrigues-756661223/">
      <img align="center" src="https://img.shields.io/badge/linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
    </a>
-   <a href="https://instagram.com/guilhmgr" target="_blank">
+   <a target="_blank" href="https://instagram.com/guilhmgr">
     <img align="center" src="https://img.shields.io/badge/-guilhmgr-05122A?style=flat&logo=instagram" alt="instagram"/>
    </a>
 </div>
