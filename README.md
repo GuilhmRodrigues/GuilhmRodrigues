@@ -12,8 +12,8 @@ Hi guys, my name is Guilherme.
 ⚙️ &nbsp;GitHub Analytics
 <div>
   <a href="https://github.com/guilhmrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhmrodrigues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhmrodrigues&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="220em" width="380em" src="https://github-readme-stats.vercel.app/api?username=guilhmrodrigues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="220em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhmrodrigues&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
   ##
