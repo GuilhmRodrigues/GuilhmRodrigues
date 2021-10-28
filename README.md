@@ -4,6 +4,8 @@ Hi guys, my name is Guilherme.
 💻 Today I still study Python and more other skills like Front-End (HTML-CSS-JavaScript), Databases (MySQL and Mongo DB).                       
 😄 I like this technology world.                      
 ⚡ I practice extreme sports like rappelling, mountaineering, canoeing, everything that relates to nature.
+   
+   "It's hard to fail, but the worst part is never trying to succeed." - Edward Snowden
 
    ##
 
