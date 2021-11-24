@@ -2,7 +2,7 @@ Hi guys, my name is Guilherme.
 
 💻 I started in October 2020, specific with Python, which it was my first contact with this way.                            
 💻 Today I still study Python and more other skills like Front-End (HTML-CSS-JavaScript), Databases (MySQL and Mongo DB) and Web Infrastructure.                    
-💻 I'm develop myself in the CyberSecurity area in red team.
+💻 I'm develop myself in the CyberSecurity area in red team.                                        
 😄 I like this technology world.                      
 ⚡ I practice extreme sports like rappelling, mountaineering, canoeing, everything that relates to nature.
    
