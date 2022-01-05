@@ -1,4 +1,4 @@
-Hi guys, my name is Guilherme.
+Hi guys, Guilherme here!!!
 
 💻 I started in October 2020, specific with Python, which it was my first contact with this way.                            
 💻 Today I still keep studying Python and Front-End (HTML-CSS-JavaScript).                                                                 
