@@ -3,8 +3,8 @@ Hi guys, Guilherme here!!!
 💻 I started in October 2020, specific with Python, which it was my first contact with this way.                            
 💻 Today I still keep studying Python and Front-End (HTML-CSS-JavaScript).                                                                 
 💻 Currently Pentester Student (Ethical Hacker).                    
-💻 Certification in Ethical Hacking Essencials, Network Defense Essencials and Digital Forensics Essencials (EC-Council).
-💻 Certification and Knowledge in CyberSecurity, Databases (MySQL and MongoDB), WEB Infrastructure and Computer Networks and their protocols.      
+💻 Certifications in Ethical Hacking Essencials, Network Defense Essencials and Digital Forensics Essencials (EC-Council).                
+💻 Certifications and Knowledge in CyberSecurity, Databases (MySQL and MongoDB), WEB Infrastructure and Computer Networks and their protocols.      
 💻 I'm develop myself in the CyberSecurity area in Red Team.                                        
 😄 I like this technology world and yours matters correlated.               
 ⚡ I practice extreme sports like rappelling, mountaineering, canoeing, trails and everything that relates to nature.
