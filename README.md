@@ -48,7 +48,7 @@ Hi guys, Guilherme here!!!
    <a href="https://www.linkedin.com/in/guilherme-rodrigues-756661223/" target="_blank">
      <img align="center" src="https://img.shields.io/badge/linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
    </a>
-   <a href="https://instagram.com/guilhmgr" target="_blank">
+   <a href="https://instagram.com/gui_lhmgr" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-guilhmgr-05122A?style=flat&logo=instagram" alt="instagram"/>
    </a>
 </div>
