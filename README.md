@@ -49,6 +49,6 @@ Hi guys, Guilherme here!!!
      <img align="center" src="https://img.shields.io/badge/linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
    </a>
    <a href="https://instagram.com/gui_lhmgr" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-guilhmgr-05122A?style=flat&logo=instagram" alt="instagram"/>
+    <img align="center" src="https://img.shields.io/badge/-gui_lhmgr-05122A?style=flat&logo=instagram" alt="instagram"/>
    </a>
 </div>
