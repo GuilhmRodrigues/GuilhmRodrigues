@@ -1,8 +1,8 @@
 Hi guys, Guilherme here!!!
 
-💻 I started my studies with technology in 2015, with Python.             
-💻 Currently Pentester and Ethical Hacker.
-💻 Making Bootcamp in Pyython by Embraer.
+💻 I started my studies with technology in 2015, with Python.                                  
+💻 Currently Pentester and Ethical Hacker.                                      
+💻 Making Bootcamp in Pyython by Embraer.                                                 
 💻 Knowledge in Python, HTML, CSS, JavaScript, Docker and Kubernetes.                                                  
 💻 Certifications in Ethical Hacking Essencials, Network Defense Essencials and Digital Forensics Essencials (EC-Council).                
 💻 Certifications and Knowledge in CyberSecurity, Databases (MySQL and MongoDB), WEB Infrastructure and Computer Networks and yours protocols.      
