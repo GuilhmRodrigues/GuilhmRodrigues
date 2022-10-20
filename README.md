@@ -1,9 +1,9 @@
 Hi guys, Guilherme here!!!
 
-💻 I started in October 2020, specific with Python, which it was my first contact with this way.             
-💻 Currently Pentester Student (Ethical Hacker).                   
-💻 Knowledge in Python, HTML, CSS and JavaScript.                  
-💻 Knowledge in Docker and Kubernetes technologies.                                        
+💻 I started my studies with technology in 2015, with Python.             
+💻 Currently Pentester and Ethical Hacker.
+💻 Making Bootcamp in Pyython by Embraer.
+💻 Knowledge in Python, HTML, CSS, JavaScript, Docker and Kubernetes.                                                  
 💻 Certifications in Ethical Hacking Essencials, Network Defense Essencials and Digital Forensics Essencials (EC-Council).                
 💻 Certifications and Knowledge in CyberSecurity, Databases (MySQL and MongoDB), WEB Infrastructure and Computer Networks and yours protocols.      
 💻 I'm develop myself in the CyberSecurity area in Red Team.                                        
