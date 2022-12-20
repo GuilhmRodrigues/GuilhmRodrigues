@@ -1,11 +1,11 @@
 Hi guys, Guilherme here!!!
 
 💻 I started my studies with technology in 2015, with Python.                                  
-💻 Currently Pentester and Ethical Hacker.                                      
-💻 Making Bootcamp in Pyython by Embraer.                                                 
+💻 Currently I'm Pentester Ethical Hacker and CyberSecurity consultant.                                      
+💻 Finishing my Bootcamp in Python by Embraer.                                                 
 💻 Knowledge in Python, HTML, CSS, JavaScript, Docker and Kubernetes.                                                  
-💻 Certifications in Ethical Hacking Essencials, Network Defense Essencials and Digital Forensics Essencials (EC-Council).                
-💻 Certifications and Knowledge in CyberSecurity, Databases (MySQL and MongoDB), WEB Infrastructure and Computer Networks and yours protocols.      
+💻 Several certifications in CyberSecurty like: Ethical Hacking, Network Defense, Digital Forensics, CompTIA +, Pentester, DarkWeb Operations, Ethical Hacker Associated, each more.                
+💻 Certifications and Knowledge in Databases (MySQL and MongoDB), WEB Infrastructure and Computer Networks and yours protocols.      
 💻 I'm develop myself in the CyberSecurity area in Red Team.                                        
 😄 I like this technology world and yours matters correlated.               
 ⚡ I practice extreme sports like rappelling, mountaineering, canoeing, trails and everything that relates to nature.
